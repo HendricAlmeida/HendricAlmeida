@@ -1,8 +1,8 @@
 ## Hi there 👋 Im Hendric!
 
-<p> Computer Science student with a strong interest in the intersection of technology, design, and efficiency. I am dedicated to the daily study of software development and organizational methodologies, always prioritizing clarity and quality in code delivery. Currently seeking an internship opportunity to contribute to the team and accelerate my professional growth.</p>
+Computer Science student with a strong interest in the intersection of technology, design, and efficiency. I am dedicated to the daily study of software development and organizational methodologies, always prioritizing clarity and quality in code delivery. Currently seeking an internship opportunity to contribute to the team and accelerate my professional growth.
 
- Technologies & Tools
+###Technologies & Tools
 <img loading="lazy" scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" weight="30px"  height="30px">
 
 <!--
