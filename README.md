@@ -1,5 +1,8 @@
 ## Hi there 👋 Im Hendric!
 
+## Technologies & Tools
+<img loading="lazy" scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" >
+
 <!--
 **HendricAlmeida/HendricAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
